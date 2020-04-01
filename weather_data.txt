@@ -1,0 +1,4 @@
+Weather info:
+Temperature: 8 degrees
+Real feel: 3 degrees
+Wind speed: 17 km/h

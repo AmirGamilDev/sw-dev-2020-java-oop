@@ -1,0 +1,6 @@
+Employee Info:
+Employee Id: 7592747
+First name: Sonic
+Middle initial: T
+Last name: Hedgehog
+Occupation: Animal freedom fighter
