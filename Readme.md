@@ -14,4 +14,4 @@ The GsonShapeFileReaderWriter implementation is somewhat complex as a ShapeAdapt
 
 See more here: https://github.com/google/gson
 
-To use Gson (and any library), it must be included in your project.  For the sake of simplicity, this is  done in this project by adding the required jar file in the libs folder and then adding this libray as  a dependency of the project.  A better way is to have the project be a Maven/Gradle project and add this  as a dependency in the pom file/gradle file.
+To use Gson (and any library), it must be included in your project.  For the sake of simplicity, this is  done in this project by adding the required jar file in the libs folder and then adding this libray as a dependency of the project.  A better way is to have the project be a Maven/Gradle project and add this as a dependency in the pom file/gradle file.
